@@ -1,0 +1,3 @@
+﻿IP地址,端口,TLS,数据中心,国家,地区,城市,ASN,ORG,延迟(ms),速度(MB/s)
+64.176.167.241,8443,TRUE,TLV,IL,Middle East,Tel Aviv,20473,AS-CHOOPA,812,0.34
+64.176.167.241,2053,TRUE,TLV,IL,Middle East,Tel Aviv,20473,AS-CHOOPA,963,0.23
